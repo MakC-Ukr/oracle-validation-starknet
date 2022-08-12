@@ -1,0 +1,1 @@
+starknet call --address 0x0178a8866ef77a01df365b49d03fe46b8a90703e9fa1e10518277d12153b93d7 --abi OracleProxy.json --function get_value --inputs 19514442401534788  
